@@ -1,0 +1,8 @@
+.DS_Store
+.env.yaml
+.vscode/settings.json
+data-csv/
+raw-audio/
+raw-audio-segments/
+hyperopt-bert-1/
+hyperopt-bert-1.config.json
